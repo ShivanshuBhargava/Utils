@@ -63,7 +63,7 @@
                             <appendAssemblyId>false</appendAssemblyId>
                             <archive>
                                 <manifest>
-                                    <mainClass>io.gitbooks.abhirockzz.jwah.chat.WebSocketServerManager</mainClass>
+                                    <mainClass>io.chat.WebSocketServerManager</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>
